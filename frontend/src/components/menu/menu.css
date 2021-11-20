@@ -1,0 +1,36 @@
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3px;
+  padding: 5px;
+}
+.icon-container:hover {
+  background: #d6d6d6;
+  border-radius: 10px;
+}
+
+.menuBar-container {
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0 2px 3px rgb(0 0 0 / 10%), 0 6px 5px rgb(0 0 0 / 5%);
+  padding-bottom: 5px;
+  overflow-x: auto;
+}
+
+@media only screen and (max-width: 600px) {
+  .icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    margin-left: 10px;
+  }
+
+  .menuBar-container {
+    display: flex;
+    box-shadow: 0 2px 3px rgb(0 0 0 / 10%), 0 6px 5px rgb(0 0 0 / 5%);
+    padding-bottom: 5px;
+    overflow-x: auto;
+  }
+}
