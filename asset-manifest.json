@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/EmergencyManager/static/css/main.5d99dede.chunk.css",
-    "main.js": "/EmergencyManager/static/js/main.a6d3a0b4.chunk.js",
-    "main.js.map": "/EmergencyManager/static/js/main.a6d3a0b4.chunk.js.map",
-    "runtime-main.js": "/EmergencyManager/static/js/runtime-main.dba2dbb6.js",
-    "runtime-main.js.map": "/EmergencyManager/static/js/runtime-main.dba2dbb6.js.map",
-    "static/js/2.277f1534.chunk.js": "/EmergencyManager/static/js/2.277f1534.chunk.js",
-    "static/js/2.277f1534.chunk.js.map": "/EmergencyManager/static/js/2.277f1534.chunk.js.map",
-    "static/js/3.ad17b034.chunk.js": "/EmergencyManager/static/js/3.ad17b034.chunk.js",
-    "static/js/3.ad17b034.chunk.js.map": "/EmergencyManager/static/js/3.ad17b034.chunk.js.map",
+    "main.css": "/EmergencyManager/static/css/main.b8aeb003.chunk.css",
+    "main.js": "/EmergencyManager/static/js/main.d1a0ef6c.chunk.js",
+    "main.js.map": "/EmergencyManager/static/js/main.d1a0ef6c.chunk.js.map",
+    "runtime-main.js": "/EmergencyManager/static/js/runtime-main.7ba870a0.js",
+    "runtime-main.js.map": "/EmergencyManager/static/js/runtime-main.7ba870a0.js.map",
+    "static/js/2.cd9807f2.chunk.js": "/EmergencyManager/static/js/2.cd9807f2.chunk.js",
+    "static/js/2.cd9807f2.chunk.js.map": "/EmergencyManager/static/js/2.cd9807f2.chunk.js.map",
+    "static/js/3.ca4216e1.chunk.js": "/EmergencyManager/static/js/3.ca4216e1.chunk.js",
+    "static/js/3.ca4216e1.chunk.js.map": "/EmergencyManager/static/js/3.ca4216e1.chunk.js.map",
     "index.html": "/EmergencyManager/index.html",
-    "static/css/main.5d99dede.chunk.css.map": "/EmergencyManager/static/css/main.5d99dede.chunk.css.map",
-    "static/js/2.277f1534.chunk.js.LICENSE.txt": "/EmergencyManager/static/js/2.277f1534.chunk.js.LICENSE.txt",
-    "static/media/2544056.11e5b400.png": "/EmergencyManager/static/media/2544056.11e5b400.png",
+    "static/css/main.b8aeb003.chunk.css.map": "/EmergencyManager/static/css/main.b8aeb003.chunk.css.map",
+    "static/js/2.cd9807f2.chunk.js.LICENSE.txt": "/EmergencyManager/static/js/2.cd9807f2.chunk.js.LICENSE.txt",
     "static/media/logo.01817d0a.svg": "/EmergencyManager/static/media/logo.01817d0a.svg",
     "static/media/profile.5faf09a7.png": "/EmergencyManager/static/media/profile.5faf09a7.png",
     "static/media/search.3a608aca.png": "/EmergencyManager/static/media/search.3a608aca.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dba2dbb6.js",
-    "static/js/2.277f1534.chunk.js",
-    "static/css/main.5d99dede.chunk.css",
-    "static/js/main.a6d3a0b4.chunk.js"
+    "static/js/runtime-main.7ba870a0.js",
+    "static/js/2.cd9807f2.chunk.js",
+    "static/css/main.b8aeb003.chunk.css",
+    "static/js/main.d1a0ef6c.chunk.js"
   ]
 }
