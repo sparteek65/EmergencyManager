@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/EmergencyManager/static/css/main.08a7ade1.chunk.css",
-    "main.js": "/EmergencyManager/static/js/main.a32c2bc5.chunk.js",
-    "main.js.map": "/EmergencyManager/static/js/main.a32c2bc5.chunk.js.map",
+    "main.css": "/EmergencyManager/static/css/main.45b0fd67.chunk.css",
+    "main.js": "/EmergencyManager/static/js/main.7544f805.chunk.js",
+    "main.js.map": "/EmergencyManager/static/js/main.7544f805.chunk.js.map",
     "runtime-main.js": "/EmergencyManager/static/js/runtime-main.779a9245.js",
     "runtime-main.js.map": "/EmergencyManager/static/js/runtime-main.779a9245.js.map",
     "static/js/2.1d50f123.chunk.js": "/EmergencyManager/static/js/2.1d50f123.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.dfdc3afb.chunk.js": "/EmergencyManager/static/js/3.dfdc3afb.chunk.js",
     "static/js/3.dfdc3afb.chunk.js.map": "/EmergencyManager/static/js/3.dfdc3afb.chunk.js.map",
     "index.html": "/EmergencyManager/index.html",
-    "static/css/main.08a7ade1.chunk.css.map": "/EmergencyManager/static/css/main.08a7ade1.chunk.css.map",
+    "static/css/main.45b0fd67.chunk.css.map": "/EmergencyManager/static/css/main.45b0fd67.chunk.css.map",
     "static/js/2.1d50f123.chunk.js.LICENSE.txt": "/EmergencyManager/static/js/2.1d50f123.chunk.js.LICENSE.txt",
     "static/media/loader.205700a2.gif": "/EmergencyManager/static/media/loader.205700a2.gif",
     "static/media/logo.01817d0a.svg": "/EmergencyManager/static/media/logo.01817d0a.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.779a9245.js",
     "static/js/2.1d50f123.chunk.js",
-    "static/css/main.08a7ade1.chunk.css",
-    "static/js/main.a32c2bc5.chunk.js"
+    "static/css/main.45b0fd67.chunk.css",
+    "static/js/main.7544f805.chunk.js"
   ]
 }
