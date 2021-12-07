@@ -1,11 +1,8 @@
 import React from "react";
 import NavBarItem from "./NavBarItem";
-import {
-  AiFillVideoCamera,
-  AiOutlineMenu,
-  AiTwotoneHome,
-} from "react-icons/ai";
+import { AiOutlineMenu, AiTwotoneHome } from "react-icons/ai";
 import { BsSearch, BsFillPersonFill } from "react-icons/bs";
+import { RiVideoLine } from "react-icons/ri";
 
 import "./NavBar.css";
 
@@ -13,7 +10,7 @@ function NavBar(props) {
   return (
     <div className="nav-bar-container">
       <NavBarItem
-        icon={<AiFillVideoCamera size="25px" />}
+        icon={<RiVideoLine size="25px" />}
         text="EMVid"
         linkTo="/EMVid"
       />
