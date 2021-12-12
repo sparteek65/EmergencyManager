@@ -48,6 +48,14 @@
   }
 }
 
+.category-screen {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+/* for mobile */
 @media only screen and (max-width: 600px) {
   .screen-container {
     padding-top: 65px;
@@ -62,9 +70,4 @@
     width: 150px;
     height: 150px;
   }
-}
-
-.category-screen {
-  display: flex;
-  flex-wrap: wrap;
 }
