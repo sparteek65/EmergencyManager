@@ -18,7 +18,7 @@ function HomeScreen(props) {
     {
       catagory: "health",
       image: "https://emergencymanager.in/media/nerve-cells-2213009__4802.jpg",
-      title: "jai hind , riots in india",
+      title: "Dummy Text for demo",
       description:
         "Have you ever faced difficulty in recognising people.?Do we feel that a complete stranger looks familiar? Do you wonder how our brain recognizes faces? Emergency Manager magazine has brought answers",
       link: "/search",
@@ -26,7 +26,7 @@ function HomeScreen(props) {
     {
       catagory: "health",
       image: "https://emergencymanager.in/media/nerve-cells-2213009__4802.jpg",
-      title: "jai hind , riots in india",
+      title: "Dummy Text for demo",
       description:
         "Have you ever faced difficulty in recognising people.?Do we feel that a complete stranger looks familiar? Do you wonder how our brain recognizes faces? Emergency Manager magazine has brought answers",
       link: "/search",
@@ -34,7 +34,7 @@ function HomeScreen(props) {
     {
       catagory: "health",
       image: "https://emergencymanager.in/media/nerve-cells-2213009__4802.jpg",
-      title: "jai hind , riots in india",
+      title: "Dummy Text for demo",
       description:
         "Have you ever faced difficulty in recognising people.?Do we feel that a complete stranger looks familiar? Do you wonder how our brain recognizes faces? Emergency Manager magazine has brought answers",
       link: "/search",
@@ -42,7 +42,7 @@ function HomeScreen(props) {
     {
       catagory: "health",
       image: "https://emergencymanager.in/media/nerve-cells-2213009__4802.jpg",
-      title: "jai hind , riots in india",
+      title: "Dummy Text for demo",
       description:
         "Have you ever faced difficulty in recognising people.?Do we feel that a complete stranger looks familiar? Do you wonder how our brain recognizes faces? Emergency Manager magazine has brought answers",
       link: "/search",
@@ -50,7 +50,7 @@ function HomeScreen(props) {
     {
       catagory: "health",
       image: "https://emergencymanager.in/media/nerve-cells-2213009__4802.jpg",
-      title: "jai hind , riots in india",
+      title: "Dummy Text for demo",
       description:
         "Have you ever faced difficulty in recognising people.?Do we feel that a complete stranger looks familiar? Do you wonder how our brain recognizes faces? Emergency Manager magazine has brought answers",
       link: "/search",
@@ -58,7 +58,7 @@ function HomeScreen(props) {
     {
       catagory: "health",
       image: "https://emergencymanager.in/media/nerve-cells-2213009__4802.jpg",
-      title: "jai hind , riots in india",
+      title: "Dummy Text for demo",
       description:
         "Have you ever faced difficulty in recognising people.?Do we feel that a complete stranger looks familiar? Do you wonder how our brain recognizes faces? Emergency Manager magazine has brought answers",
       link: "/search",
@@ -67,7 +67,7 @@ function HomeScreen(props) {
       catagory: "health",
       image: "https://emergencymanager.in/media/nerve-cells-2213009__4802.jpg",
 
-      title: "jai hind , riots in india",
+      title: "Dummy Text for demo",
       description:
         "Have you ever faced difficulty in recognising people.?Do we feel that a complete stranger looks familiar? Do you wonder how our brain recognizes faces? Emergency Manager magazine has brought answers",
       link: "/",
